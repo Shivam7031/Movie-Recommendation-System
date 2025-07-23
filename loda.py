@@ -1,1 +1,0 @@
-print("mera mu me lelo")
